@@ -1,0 +1,17 @@
+.navbar-dark {
+    background-color: #89b72d !important; 
+}
+
+.sidebar .nav-link.active,
+.sidebar .nav-link:hover {
+    color: #89b72d !important;
+}
+
+header.navbar.navbar-dark {
+    background-color: #89b72d !important;
+}
+
+body, .navbar, .header, .menu, .nav-link {
+    color: #000000 !important;
+}
+

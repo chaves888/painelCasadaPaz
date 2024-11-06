@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$Y4/4ws04wYotZQg2RB1bwurp7W6RCq.NLrUEEONlOZEdjLXCVG/LW",
+      "permissoes": "admin"
+    },
+    {
+      "nome": "Yuri Alberto protagonista",
+      "email": "alberto@gmail.com",
+      "permissoes": "admin",
+      "password": "$2a$10$eMzZlL6v3XMxH4Zd1fuJmORO2xYJeYA6TiG8.DBwr8QpkGj32bzuu",
+      "id": 2
+    },
+    {
+      "email": "lamine@gmail.com",
+      "password": "$2a$10$DHltLj9xhFCrpfIMo8pAQOgTynlofjbLnOnS6U/RGR4ejJpIMj3k.",
+      "nome": "Lamine Yamal",
+      "permissoes": "colaborador",
+      "id": 3
+    }
+  ],
+  "eventos": [
+    {
+      "nome": "Aniversario Casa da Paz",
+      "descricao": "teste",
+      "id": 1
+    }
+  ],
+  "premios": [
+    {
+      "nome": "Premiação de Exemplo",
+      "descricao": "Descrição da premiação",
+      "id": 3
+    },
+    {
+      "nome": "Premiação de Exemplo",
+      "descricao": "Descrição da premiação",
+      "imagem": "http://example.com/imagem.jpg",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.border {
+    border: 2px;
+    border-color: #ccc;
+    border-style: solid;
+    padding: 20px;
+}
+
+/* styles.module.css */
+.title {
+    color: #89b72d;
+}
+
+.button {
+    background-color: #89b72d !important; 
+    color: white !important; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+}
+
+.button:hover {
+    background-color: #7aa727 !important; 
+}
+
